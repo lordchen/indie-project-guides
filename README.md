@@ -28,6 +28,14 @@ Use the route guides to choose a manageable area, compare transport options, and
 
 Check current opening hours, transport schedules, entry requirements and availability with the relevant official providers before travelling.
 
+## Stillframe — add borders without cropping
+
+[Open Stillframe](https://border.deepquestai.org/)
+
+Choose a JPG, PNG or WebP, set the border color and width, and choose the original proportions or a fixed canvas ratio. The tool adds space around the full image rather than cropping it. Download a PNG or JPG, or export a batch in a ZIP.
+
+Photo processing stays in the browser. The interface currently allows up to 20 photos, 20 MB and 24 megapixels per photo, and 100 MB per batch. Metadata and ICC profiles are not preserved; transparent areas use the selected border color. The site uses analytics as explained in its privacy FAQ. Desktop Safari has been tested; iPhone and iPad testing is still in progress.
+
 ## Feedback
 
 Please open an issue with the page URL, expected behavior and what happened. Do not include private images, identity documents, credentials or other sensitive information.
